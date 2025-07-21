@@ -17,7 +17,7 @@ date = 2025-07-24
 ---
 
 ## Vibe-Coded App Showcase (15 min)
-- 
+- [Sando](https://sando.blue) - [Ngrok](https://ngrok.com/) replacement using [holesail](https://holesail.io) server-side rendered in Rust. Pay with cashu to tunnel your local services to a public domain. ([github](https://github.com/gudnuf/sando))
   
 ## Startup Showcase (15 min) 
 - 
