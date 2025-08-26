@@ -22,9 +22,6 @@ date = 2025-08-28
 
 ## Discussions (60 min)
 
-- Block’s Proto Rig and Proto Fleet
-    - How does this change the current landscape of mining?
-    - What does the future of mining look like?
 - Bitchat
     - How does it work?
     - How will it evolve (bitcoin payments, bitchat as a platform, etc.)
@@ -34,6 +31,7 @@ date = 2025-08-28
     - Will they blow up?
 - Hyperbitcoinization
     - What is "Hyperbitcoinization"? Audience is encouraged to provide their own definitions!
+- How to build a network of off-grid solar compute.
 - Discuss all the ways you can send bitcoin!
     - Inspired by this tweet: https://x.com/CierrePorbin/status/1947959754157920528
 
