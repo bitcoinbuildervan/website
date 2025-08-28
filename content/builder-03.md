@@ -44,5 +44,3 @@ date = 2025-08-28
   - [Google unveils L1 GCUL](https://www.theblock.co/post/368399/google-cloud-blockchain-gcul)
   - [Stripe unveils L1 Tempo](https://www.coindesk.com/business/2025/08/12/stripe-building-payments-blockchain-tempo-with-paradigm-fortune)
   - [Circle unveils L1 Arc](https://www.circle.com/blog/introducing-arc-an-open-layer-1-blockchain-purpose-built-for-stablecoin-finance)
-
----
