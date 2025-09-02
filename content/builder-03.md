@@ -13,7 +13,7 @@ date = 2025-08-28
 
 ---
 
-## Live videcoding request (20 min)
+## Live Vibe Coding Request (20 min)
 - Damian vibe-code based on audience suggestions
 
 ## Vibe Coded App Showcase (3 min) 
