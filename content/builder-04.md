@@ -8,7 +8,6 @@ date = 2025-09-25
 ## Intro (15 min)
 
 - Chatham house rules. No photos/videos.
-- Presidio Bitcoin design week in September https://event.bitcoin.design
 - Welcome, [Austin ₿uilder](https://bitcoinbuilderatx.com/)! Great to see more of these pop up around the world!
 - [Presidio Bitcoin Design Week recap](https://x.com/bitcoin_design/status/1969119048169398653), [Pitch Day](https://luma.com/6d6uewru) teaser, and [Type 1 Summit](https://type1summit.org/)
 - 10 second intros
