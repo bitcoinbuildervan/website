@@ -3,12 +3,14 @@ title = "₿uilder 4"
 date = 2025-09-25
 +++
 
-## Intro (10 min)
+## [Vote on Topics](https://www.buildervoting.com/socratic_seminars/100/topics)
+
+## Intro (15 min)
 
 - Chatham house rules. No photos/videos.
 - Presidio Bitcoin design week in September https://event.bitcoin.design
 - Welcome, [Austin ₿uilder](https://bitcoinbuilderatx.com/)! Great to see more of these pop up around the world!
-- [Presidio Bitcoin Design Week recap](https://x.com/bitcoin_design/status/1969119048169398653), [Pitch Day](https://www.meetup.com/bay-area-bitcoiners/events/311222693/?eventOrigin=network_page) teaser, and [Type 1 Summit](https://type1summit.org/)
+- [Presidio Bitcoin Design Week recap](https://x.com/bitcoin_design/status/1969119048169398653), [Pitch Day](https://luma.com/6d6uewru) teaser, and [Type 1 Summit](https://type1summit.org/)
 - 10 second intros
   - Name, what you do, what you want to get out of ₿uilder
 
@@ -25,14 +27,14 @@ date = 2025-09-25
 
 ## News / Discussions (40 min)
 
-- Credit Cards ramping up: [Fold<>Visa](https://bitcoinmagazine.com/news/fold-taps-stripe-and-visa-in-launch-of-first-bitcoin-only-credit-card), Coinbase
+- Credit cards ramping up: [Fold<>Visa](https://bitcoinmagazine.com/news/fold-taps-stripe-and-visa-in-launch-of-first-bitcoin-only-credit-card), Coinbase
 - EASYGROUP launches retails bitcoin app [link](https://www.prnewswire.com/news-releases/easygroup-launches-easybitcoin-app-for-everyday-users-302549343.html)
-- PayPal Ushers in a New Era of Peer-to-Peer Payments [link](https://newsroom.paypal-corp.com/2025-09-15-PayPal-Ushers-in-a-New-Era-of-Peer-to-Peer-Payments,-Reimagining-How-Money-Moves-to-Anyone,-Anywhere) 
-- OpenSats Grant Fuels Bitcoin-Safe’s Secure Multisig [link](https://bitcoinmagazine.com/business/opensats-grant-fuels-bitcoin-safes-secure-multisig-wallet-launch-with-hardware-focus)
-- ZBD’s SDK Powers Bitcoin Earnings in Mobile Games, Driving 124% Revenue Growth [link](https://bitcoinmagazine.com/business/zbds-sdk-powers-bitcoin-earnings-in-mobile-games-driving-124-revenue-growth)
-- Vibe Coding searches WAY down Bubble? Search obsolete? [Link](https://x.com/TheEthanDing/status/1962730989672595524)
+- PayPal ushers in a new era of peer-to-peer payments [link](https://newsroom.paypal-corp.com/2025-09-15-PayPal-Ushers-in-a-New-Era-of-Peer-to-Peer-Payments,-Reimagining-How-Money-Moves-to-Anyone,-Anywhere) 
+- OpenSats grant fuels bitcoin-safe’s secure multisig [link](https://bitcoinmagazine.com/business/opensats-grant-fuels-bitcoin-safes-secure-multisig-wallet-launch-with-hardware-focus)
+- ZBD’s SDK powers bitcoin earnings in mobile games, driving 124% revenue growth [link](https://bitcoinmagazine.com/business/zbds-sdk-powers-bitcoin-earnings-in-mobile-games-driving-124-revenue-growth)
+- Vibe coding searches WAY down. Bubble? Search obsolete? [Link](https://x.com/TheEthanDing/status/1962730989672595524)
 - Figma made its design tools more accessible to AI agents [link](https://www.theverge.com/news/783828/figma-make-ai-app-coding-mcp-server-update)
-- [Save our Wallets](https://saveourwallets.org/) Poster and Flyers
+- [Save Our Wallets](https://saveourwallets.org/) poster and flyers
 
 ---
 
