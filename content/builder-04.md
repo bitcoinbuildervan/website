@@ -14,7 +14,7 @@ date = 2025-09-25
 
 ---
 
-## Kody Low on Vibecode with Bitcoin (30 min)
+## Kody Low on Vibecoding with Bitcoin (30 min)
 - Demo on how to make a bitcoin app using Replit
 - Opportunities Replit's looked at with Bitcoin
 
@@ -23,7 +23,7 @@ date = 2025-09-25
 
 ---
 
-## New / Discussions (40 min)
+## News / Discussions (40 min)
 
 - Credit Cards ramping up: [Fold<>Visa](https://bitcoinmagazine.com/news/fold-taps-stripe-and-visa-in-launch-of-first-bitcoin-only-credit-card), Coinbase
 - EASYGROUP launches retails bitcoin app [link](https://www.prnewswire.com/news-releases/easygroup-launches-easybitcoin-app-for-everyday-users-302549343.html)
