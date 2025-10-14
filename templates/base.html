@@ -33,7 +33,10 @@
   </head>
   <body>
     <header>
-      <h1><a href="/">₿uilder SF</a></h1>
+      <h1>
+        {% set home_url = get_url(path='index.html') %}
+        <a href="{{ home_url }}">₿uilder Vancouver</a>
+      </h1>
       <nav>
         <a href="https://luma.com/user/usr-NneVL41jS3zHYHV" target="_blank">Luma</a>
         <a href="https://x.com/BTCBuilderVan" target="_blank">Twitter</a>
