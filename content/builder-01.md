@@ -1,11 +1,11 @@
 +++
 title = "₿uilder 1"
-date = 2025-11-27
+date = 2025-11-18
 +++
 
 ## Intro (10 min)
 
-- This is our first ₿uilder Vancouvber! We’re very open to feedback and ideas on how to make these events great. Feel free to suggest ideas during the meetup or afterwards
+- This is our first ₿uilder Vancouver! We’re very open to feedback and ideas on how to make these events great. Feel free to suggest ideas during the meetup or afterwards
 - Define ₿uilder and purpose for starting this event series
 - Anyone can be a ₿uilder! Vibe coding makes building apps approachable and intuitive
 - Quick Show of Hands
