@@ -38,10 +38,11 @@
         <a href="{{ home_url }}">₿uilder Vancouver</a>
       </h1>
       <nav>
-        <a href="https://luma.com/user/usr-NneVL41jS3zHYHV" target="_blank">Luma</a>
-        <a href="https://x.com/BTCBuilderVan" target="_blank">Twitter</a>
+         {% set events_url = get_url(path='events') %}
+        <a href="{{ events_url }}">Events</a>
+        <a href="https://x.com/BTCBuilderVan" target="_blank">X</a>
         <a href="https://github.com/bitcoinbuildervan/website" target="_blank">GitHub</a>
-         {% set feed_url = get_url(path='feed.xml') %}
+         {% set feed_url = get_url(path='feed') %}
         <a href="{{ feed_url }}">RSS</a>
         <a href="https://bitdevs.ca/" target="_blank">BitDevs</a>
         {% set cities_url = get_url(path='@/cities/_index.md') %}

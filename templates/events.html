@@ -1,0 +1,23 @@
+{% extends "base.html" %}
+
+{% block content %}
+<h1 class="title">
+  {{ section.title }}
+</h1>
+
+<p class="lead"></p>
+  ₿uilder Vancouver runs a mix of events to bring the local Bitcoin and open-source community together. Expect Socratic Seminars — discussion-led deep dives into ideas — Vibe coding Hackathons for hands-on collaborative building, plus regular networking nights, workshops, and lightning talks.
+</p>
+<p>
+  Events are inclusive and geared toward all skill levels: whether you&rsquo;re prototyping a project, sharpening your skills, or simply looking to meet other builders, there’s a place for you. Check individual event pages for dates, locations, and RSVP details.
+</p>
+<ul>
+  {% for page in section.pages %}
+  <li>
+    <a href="{{ page.permalink | safe }}">{{ page.title }}</a> - {{ page.date }} {{ page.extra.start_time }} - 
+    Location: <a href="{{ page.extra.location_url | safe }}">{{ page.extra.location | safe }}</a> - 
+    <a href="{{ page.extra.event_url }}" class="luma-checkout--button" data-luma-action="checkout" data-luma-event-id="evt-Q4H1MFtY0yfXQfW" style="background-color: #ff5722; color: white; padding: 5px 10px; font-size: 14px; border-radius: 5px; text-decoration: none; transition: background-color 0.3s;" onmouseover="this.style.backgroundColor='#e64a19';" onmouseout="this.style.backgroundColor='#ff5722';">Register</a>
+  </li>
+  {% endfor %}
+</ul>
+{% endblock content %}
