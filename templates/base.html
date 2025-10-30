@@ -34,8 +34,7 @@
   <body>
     <header>
       <h1>
-        {% set home_url = get_url(path='index.html') %}
-        <a href="{{ home_url }}">₿uilder Vancouver</a>
+        <a href="/">₿uilder Vancouver</a>
       </h1>
       <nav>
          {% set events_url = get_url(path='events') %}
@@ -46,7 +45,7 @@
         <a href="{{ feed_url }}">RSS</a>
         <a href="https://bitdevs.ca/" target="_blank">BitDevs</a>
         {% set cities_url = get_url(path='@/cities/_index.md') %}
-        <a href="{{ cities_url }}" target="_blank">Cities</a>
+        <a href="{{ cities_url }}">Cities</a>
       </nav>
     </header>
     <hr>
