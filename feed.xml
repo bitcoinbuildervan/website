@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+	<title></title>
+	<link href="https://bitcoinbuildervan.com/feed.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://bitcoinbuildervan.com"/>
+	<generator uri="https://www.getzola.org/">Zola</generator>
+	<updated>2025-11-18T00:00:00+00:00</updated>
+	<id>https://bitcoinbuildervan.com/feed.xml</id>
+	<entry xml:lang="en">
+		<title>₿uilder 1</title>
+		<published>2025-11-18T00:00:00+00:00</published>
+		<updated>2025-11-18T00:00:00+00:00</updated>
+		<link rel="alternate" href="https://bitcoinbuildervan.com/events/builder-01/" type="text/html"/>
+		<id>https://bitcoinbuildervan.com/events/builder-01/</id>
+		<content type="html">&lt;h1 id=&quot;schedule&quot;&gt;Schedule&lt;&#x2F;h1&gt;
+&lt;h2 id=&quot;casual-networking&quot;&gt;Casual Networking&lt;&#x2F;h2&gt;
+&lt;p&gt;One of the pillars of Builder is to bring people together. Let&#x27;s use this time to introduce our selves and make connections. You never know who you might meet...&lt;&#x2F;p&gt;
+&lt;p&gt;We may use this time to present a list of topics people can vote on.&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;h2 id=&quot;intro&quot;&gt;Intro&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;This is our first ₿uilder Vancouver! We’re very open to feedback and ideas on how to make these events great. Feel free to suggest ideas during the meetup or afterwards.&lt;&#x2F;li&gt;
+&lt;li&gt;Chatham House Rules - No Pictures or Videos during the event.&lt;&#x2F;li&gt;
+&lt;li&gt;Quick Show of Hands
+&lt;ul&gt;
+&lt;li&gt;Who works for big tech? PM? Designer? Other?&lt;&#x2F;li&gt;
+&lt;li&gt;Who has vibe coded before? Integrated bitcoin?&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;hr &#x2F;&gt;
+&lt;h2 id=&quot;presentations&quot;&gt;Presentations&lt;&#x2F;h2&gt;
+&lt;p&gt;Builder Mission - Justin&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Define ₿uilder and purpose for starting this event series&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;Spiral Bitcoin - Mat Balez&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;spiral.xyz&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;Bitcoin on Nostr - Martin&lt;&#x2F;p&gt;
+&lt;p&gt;The Bitcoin Scene in Vancouver - TBD&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;h2 id=&quot;vibe-coded-app-showcase&quot;&gt;Vibe-Coded App Showcase&lt;&#x2F;h2&gt;
+&lt;p&gt;Vibe Coding has become a huge part of product development. We can use this time to discuss any best practices, tools and projects that people are working.&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Anyone?&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;hr &#x2F;&gt;
+&lt;h2 id=&quot;startup-showcase&quot;&gt;Startup Showcase&lt;&#x2F;h2&gt;
+&lt;p&gt;If you are currently working on a Bitcoin Start Up, now is the time to share with the community.&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;h2 id=&quot;bitcoin-products&quot;&gt;Bitcoin Products&lt;&#x2F;h2&gt;
+&lt;p&gt;What has been going on in the product space recently ? What companies have made announcements recently ?&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;h2 id=&quot;regulatory&quot;&gt;Regulatory&lt;&#x2F;h2&gt;
+&lt;p&gt;How has the law changed recently ? Internationally, Nationally, Provincially.&lt;&#x2F;p&gt;
+&lt;p&gt;https:&#x2F;&#x2F;www.cbc.ca&#x2F;news&#x2F;canada&#x2F;british-columbia&#x2F;bc-ai-power-centres-9.6946054&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;h2 id=&quot;bitcoin-design&quot;&gt;Bitcoin Design&lt;&#x2F;h2&gt;
+&lt;p&gt;Have there been any design research released recently ?&lt;&#x2F;p&gt;
+&lt;p&gt;Are there any new Product &#x2F; UI &#x2F; UX trends to discuss ?&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;h2 id=&quot;discussions&quot;&gt;Discussions&lt;&#x2F;h2&gt;
+&lt;p&gt;These discussion points will be crowd sourced during the lead up to the event.&lt;&#x2F;p&gt;
+&lt;p&gt;If you want to submit an idea, send a post to &lt;a href=&quot;https:&#x2F;&#x2F;x.com&#x2F;BTCBuilderVan&quot;&gt;BTCBuilderVan&lt;&#x2F;a&gt; on X or send an email to &lt;a href=&quot;mailto:bitcoinbuildervan@gmail.com&quot;&gt;bitcoinbuildervan@gmail.com&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;h2 id=&quot;miscellaneous&quot;&gt;Miscellaneous&lt;&#x2F;h2&gt;
+&lt;p&gt;Final Thoughts and Closing Remarks&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;h2 id=&quot;wrapping-up&quot;&gt;Wrapping Up&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;What went well?&lt;&#x2F;li&gt;
+&lt;li&gt;Areas of improvement for future meetups&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</content>
+	</entry>
+</feed>
